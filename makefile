@@ -1,0 +1,2 @@
+main:
+	gcc -g main.c cd.c echo.c pwd.c ls.c pinfo.c background.c foreground.c setInOut.c commands.c pipeline.c history.c prompt.c settingenv.c unsettingenv.c jobs.c kjob.c overkill.c bg.c fg.c executecom.c
